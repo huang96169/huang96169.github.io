@@ -211,7 +211,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  researches:
+  research:
     output: true
     permalink: /:collection/:path/
 
@@ -266,7 +266,7 @@ defaults:
   # _research
   - scope:
       path: ""
-      type: researches
+      type: research
     values:
       layout: single
       author_profile: true
