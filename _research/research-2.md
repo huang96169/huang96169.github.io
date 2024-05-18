@@ -1,6 +1,6 @@
 ---
 title: "research item number 222"
-excerpt: "Short description of research item number 1<br/><img src='/images/image-alignment-300x200.jpg'>"
+excerpt: "Short description of research item number 1<br/><img src='/images/research2.mov'>"
 collection: research
 ---
 
