@@ -9,6 +9,12 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
   <div class="wordwrap">Selected publications</div>
   <div class="wordwrap">2024</div>
+  <style>
+    .note {
+    font-size: 120%;
+    color: red;
+    }
+  </style>
   <div class="wordwrap">Huang, W., Li, C. & Rivera-Monroy, V.H. Cold fronts control multiscale spatiotemporal hydroperiod patterns in a man-made subtropical coastal delta (Wax Lake Region, Louisiana USA). Ocean Dynamics 74, 355–372 (2024). https://doi.org/10.1007/s10236-024-01608-9</div>
   <div class="wordwrap">Huang, W., Ye, F., Zhang, Y., Du, J., Park, K., Yu, H.C., and Wang, Z. 2024b. Hydrodynamic responses of estuarine bays along the Texas-Louisiana coast during Hurricane Harvey. Ocean Modelling 187, 102302.</div>
   <div class="wordwrap">Li, C.; Huang, W.; Chen, C.; Boswell, K.M.; Wu, R. Modes of Weather System-Induced Flows through an Arctic Lagoon. J. Mar. Sci. Eng. 2024, 12, 767. https://doi.org/10.3390/jmse12050767</div>
