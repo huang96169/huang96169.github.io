@@ -1,7 +1,8 @@
 ---
 title: "research item number 222"
 short: "This is the 1 line <br/> This is the 2 line"
-excerpt: "123123"
+excerpt: "22222"
+video: "/images/research-2.mp4"
 collection: research
 ---
 
