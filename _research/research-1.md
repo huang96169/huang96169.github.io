@@ -1,6 +1,6 @@
 ---
 title: "Experimental Forecasting System for South Florida"
-excerpt: "Short description of research item number 1<br/><img src='/images/research_image1.png'>"
+excerpt: "Maximum water elevation at 00:00 on May 21, 2024<br/><img src='/images/research_image1.png'>"
 collection: research
 ---
 
