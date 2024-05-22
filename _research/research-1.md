@@ -1,5 +1,5 @@
 ---
-title: "research item number 1"
+title: "Experimental Forecasting System for South Florida"
 excerpt: "Short description of research item number 1<br/><img src='/images/research_image1.png'>"
 collection: research
 ---
