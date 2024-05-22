@@ -1,6 +1,6 @@
 ---
 title: "research item number 222"
-short: "This is the 1 line </br>This is the 2 line"
+short: "This is the 1 line <br/> This is the 2 line"
 excerpt: "<video width="320" height="240" controls="controls"><source src="/images/research-2.mp4" type="video/mp4">not support </video>"
 collection: research
 ---
