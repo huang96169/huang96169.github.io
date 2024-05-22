@@ -1,7 +1,6 @@
 ---
 title: "Experimental Forecasting System for South Florida"
-This is a description of a teaching experience. You can use markdown like any other post.
-excerpt: "<br/><img src='/images/research_image1.png'>"
+excerpt: "Short statement<br/><img src='/images/research_image1.png'>"
 collection: research
 ---
 
