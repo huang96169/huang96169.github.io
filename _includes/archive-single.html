@@ -59,7 +59,9 @@
     {% endif %}
    
     {% if post.video %}
-    <video width="1080" height="720" controls><source src= "{{ post.video }}" type="video/mp4">not support </video>
+    <video width="1080" height="720" controls><source src= "{{ post.video }}" type="video/mp4">Your browser does not support the video tag.</video>
+    {% elsif post.video2 %}
+    <video width="1080" height="720" controls><source src= "{{ post.video }}" type="video/quicktime">Your browser does not support the video tag.</video>
     {% endif %}
     
     {% if post.citation and post.paperurl %}
