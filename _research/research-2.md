@@ -1,8 +1,8 @@
 ---
 title: "research item number 222"
 short: "This is the 1 line.</br>
-        This is the 2 line.&#10;
-        This is the 3 line.&NewLine;
+        This is the 2 line.</br>
+        This is the 3 line.</br>
         This is the 4 line.
         "
 excerpt: "<video width="320" height="240" controls>
