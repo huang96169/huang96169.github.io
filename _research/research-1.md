@@ -1,7 +1,7 @@
 ---
 title: "Experimental Forecasting System for South Florida"
-short: "short short short  short short short  short short short"
-date: 2009-10-01
+short: Maximum water elev at 00:00 on 20240522
+date: 20240522
 excerpt: "<img src='/images/research_image1.png'>"
 collection: research
 ---
