@@ -1,6 +1,7 @@
 ---
 title: "Experimental Forecasting System for South Florida"
 excerpt: "Short statement<br/><img src='/images/research_image1.png'>"
+date: 2009-10-01
 collection: research
 ---
 
