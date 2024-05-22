@@ -1,6 +1,8 @@
 ---
 title: "research item number 3"
-excerpt: "Short description of research item number 1<br/><img src='/images/image-alignment-1200x4002.jpg'>"
+short: "This is the 1 line <br/> This is the 2 line"
+excerpt: "33333"
+video: "/images/research2.mov"
 collection: research
 ---
 
