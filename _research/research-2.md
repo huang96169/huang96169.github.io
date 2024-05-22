@@ -1,6 +1,20 @@
 ---
 title: "research item number 222"
-excerpt: "Short description of research item number 1<br/><video src='/images/research-2.mp4'>"
+short: "Short description of research item number 1 
+            * List item one 
+                * List item one 
+                    * List item one
+                    * List item two
+                    * List item three
+                    * List item four
+                * List item two
+                * List item three
+                * List item four
+            * List item two
+            * List item three
+            * List item four
+        "
+excerpt: "<video src='/images/research-2.mp4'>"
 collection: research
 ---
 
