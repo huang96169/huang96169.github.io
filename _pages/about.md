@@ -12,20 +12,20 @@ We are interested in using in-situ measurements, theoretical analysis, and numer
 
 News
 ======
+
 2024
-------
+
 May
-------
+
 [New research paper](https://doi.org/10.3390/jmse12050767) published
-------
+
 Li, C.; Huang, W.; Chen, C.; Boswell, K.M.; Wu, R. Modes of Weather System-Induced Flows through an Arctic Lagoon. J. Mar. Sci. Eng. 2024, 12, 767. https://doi.org/10.3390/jmse12050767
-------
+
 March
-------
+
 [New research paper](https://doi.org/10.1007/s10236-024-01608-9) published
-------
+
 Huang, W., Li, C. & Rivera-Monroy, V.H. Cold fronts control multiscale spatiotemporal hydroperiod patterns in a man-made subtropical coastal delta (Wax Lake Region, Louisiana USA). Ocean Dynamics 74, 355–372 (2024). https://doi.org/10.1007/s10236-024-01608-9
-------
 
 
 Opportunities
