@@ -14,7 +14,6 @@ News
 ======
 
 2024 May
-
 [New research paper](https://doi.org/10.3390/jmse12050767) published
 
 Li, C.; Huang, W.; Chen, C.; Boswell, K.M.; Wu, R. Modes of Weather System-Induced Flows through an Arctic Lagoon. J. Mar. Sci. Eng. 2024, 12, 767. https://doi.org/10.3390/jmse12050767
