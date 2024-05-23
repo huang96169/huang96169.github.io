@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 This is the front page of the Coastal and Estuarine Dynamics Laboratory, led by Dr. Wei Huang [Academic Page](https://case.fiu.edu/about/directory/profiles/wei-huang.html) at Florida International University. 
-We are interested in using in-situ measurements, theoretical analysis, and numerical models to investigate coastal processes including estuarine dynamics, compound flooding, and interactions between physical characteristics and biogeochemical processes under sea level rise and extreme weather conditions like hurricanes and storms.
+We are interested in using field measurements, theoretical analysis, and numerical models to investigate coastal processes including estuarine dynamics, compound flooding, and interactions between physical characteristics and biogeochemical processes under sea level rise and extreme weather conditions like hurricanes and storms.
 
 News
 ======
