@@ -7,23 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of the Coastal and Estuarine Dynamics Laboratory, led by Dr. Wei Huang [Academic Page](https://case.fiu.edu/about/directory/profiles/wei-huang.html) at Florida International University. 
+This is the front page of the Coastal and Estuarine Dynamics Laboratory, led by Dr. Wei Huang [Academic Page](https://case.fiu.edu/about/directory/profiles/wei-huang.html) at Florida International University. <br/>
 We are interested in using field measurements, theoretical analysis, and numerical models to investigate coastal processes including estuarine dynamics, compound flooding, and interactions between physical characteristics and biogeochemical processes under sea level rise and extreme weather conditions like hurricanes and storms.
 
 News
 ======
 
 2024 May <br/>
-[New research paper](https://doi.org/10.3390/jmse12050767) published
-
+[New research paper](https://doi.org/10.3390/jmse12050767) published <br/>
 Li, C.; Huang, W.; Chen, C.; Boswell, K.M.; Wu, R. Modes of Weather System-Induced Flows through an Arctic Lagoon. J. Mar. Sci. Eng. 2024, 12, 767. https://doi.org/10.3390/jmse12050767
 
-2024 March
-
-[New research paper](https://doi.org/10.1007/s10236-024-01608-9) published
-
+2024 March <br/>
+[New research paper](https://doi.org/10.1007/s10236-024-01608-9) published <br/>
 Huang, W., Li, C. & Rivera-Monroy, V.H. Cold fronts control multiscale spatiotemporal hydroperiod patterns in a man-made subtropical coastal delta (Wax Lake Region, Louisiana USA). Ocean Dynamics 74, 355–372 (2024). https://doi.org/10.1007/s10236-024-01608-9
-
 
 Opportunities
 ------
