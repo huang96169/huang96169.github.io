@@ -35,8 +35,12 @@ No opening at this time. Please check back later.
 Contact us
 ------
 Florida International University
+
 Department of Earth and Environment and
 Institute of Environment
+
 11200 SW 8th Street, Miami FL 33199
+
 Office: 305-348-1732
+
 Email: wei.huang@fiu.edu
