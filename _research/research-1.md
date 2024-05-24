@@ -1,15 +1,7 @@
 ---
 title: "Experimental Forecasting System for South Florida"
-short: Maximum water elev at 00:00 on 20240522
-date: 20240522
-short: Surface current velocity at 01:00 on 20240526
-short: Surface current velocity at 01:00 on 20240526
-short: Surface current velocity at 01:00 on 20240526
-short: Surface current velocity at 01:00 on 20240526
-short: Surface current velocity on 20240526
-short: Surface current velocity from 20240522 to 20240526
-short: Surface current velocity from 20240522 to 20240526
 short: Surface current velocity from 20240523 to 20240527
+date: 20240523
 excerpt: "<img src='/images/research_image1.png'>"
 collection: research
 ---
