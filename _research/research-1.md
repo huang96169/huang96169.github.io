@@ -1,7 +1,7 @@
 ---
 title: "Experimental Forecasting System for South Florida"
 short: Surface current velocity from 20240523 to 20240527
-date: 20240523
+date: 2024-05-23
 excerpt: "<img src='/images/research_image1.png'>"
 collection: research
 ---
