@@ -1,8 +1,7 @@
 ---
-title: "research item number 3"
+title: "Under Construction"
 short: "This is the 1 line <br/> This is the 2 line"
 excerpt: "33333"
-video2: "/images/research2.mov"
 collection: research
 ---
 
