@@ -7,5 +7,5 @@ collection: research
 ---
 
 Disclaimer:
-This is an experimental web portal for graphic visualization of the operational and experimental results from the storm surge and tide forecast systems being developed and tested by [SCHISM](https://ccrm.vims.edu/schismweb/).<br/>
+This is an experimental web portal for graphic visualization of the operational and experimental results from the storm surge and tide forecast systems being developed and tested by our lab at FIU using [SCHISM](https://ccrm.vims.edu/schismweb/).<br/>
 It should not be used as an official forecast.  
