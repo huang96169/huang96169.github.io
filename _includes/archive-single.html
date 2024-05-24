@@ -52,6 +52,18 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.short | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
 
+    {% if post.short1 and site.read_more != 'enabled' %}
+    <p class="archive__item-excerpt" itemprop="description">{{ post.short1 | markdownify }}</p>
+    {% elsif post.short1 and site.read_more == 'enabled' %}
+    <p class="archive__item-excerpt" itemprop="description"><p>{{ post.short1 | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
+    {% endif %}
+
+    {% if post.short2 and site.read_more != 'enabled' %}
+    <p class="archive__item-excerpt" itemprop="description">{{ post.short2 | markdownify }}</p>
+    {% elsif post.short2 and site.read_more == 'enabled' %}
+    <p class="archive__item-excerpt" itemprop="description"><p>{{ post.short2 | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
+    {% endif %}
+
     {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
