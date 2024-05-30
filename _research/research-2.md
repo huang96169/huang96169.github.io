@@ -9,6 +9,8 @@ collection: research
 Disclaimer:
 This is an experimental web portal for graphic visualization of the operational and experimental results from the storm surge and tide forecast systems being developed and tested by our lab at FIU using [SCHISM](https://ccrm.vims.edu/schismweb/).<br/>
 It should not be used as an official forecast.<br/>
+Surface water elevation from 20240527 to 20240531<br/>
+<img src='/images/research_elev2.gif'>
 Surface current velocity  from 20240529 to 20240602<br/>
 <img src='/images/research_uv2.gif'>
 Surface salinity from 20240529 to 20240602<br/>
