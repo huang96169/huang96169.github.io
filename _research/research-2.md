@@ -17,6 +17,8 @@ Surface salinity from 20240615 to 20240619<br/>
 <img src='/images/research_salt2.gif'>
 Surface temperature from 20240615 to 20240619<br/>
 <img src='/images/research_temp2.gif'>
+Compound flooding map for Southeastern Florida from 20240615 to 20240619<br/>
+<img src='/images/research_maxelev2.gif'>
 The map below showns observational stations used for validating the model's results, as well as the horizontal grid. <br/>
 The horizontal grid for SCHISM in simulating Biscayne Bay in South Florida, using flexible resolution resolving levees and canals (1-2 m), watershed rural and urban areas (30m-50m) and coastal ocean (500m-5km).<br/>
 Turn off the hgrid to accelerate the display speed.<br/>
