@@ -9,6 +9,13 @@ main:
   - title: "Teaching"
     url: /teaching/    
         
+  - title: "My Team"
+    url: /team/    
+
+  - title: "My Mentors"
+    url: /mentors/    
+
   - title: "CV"
     url: /cv/
+
 
