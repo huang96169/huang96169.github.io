@@ -285,6 +285,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
+      hide_title: true
   # _mentors
   - scope:
       path: ""
@@ -294,6 +295,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
+      hide_title: true
   # # _talks
   # - scope:
   #     path: ""
