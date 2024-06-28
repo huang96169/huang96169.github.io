@@ -1,6 +1,6 @@
 ---
-title: "team item number 1"
-short: Short description of team item number 1
+title: "Under construction"
+short: Please check back later
 excerpt: "<img src=''>"
 collection: team
 ---
