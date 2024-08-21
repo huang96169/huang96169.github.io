@@ -13,6 +13,10 @@ We are interested in using field measurements, theoretical analysis, and numeric
 News
 ======
 
+## 2024 August <br/>
+We have a new PhD student on board! <br/>
+Welcome, Tahsina Zarin! <br/>
+
 ## 2024 May <br/>
 [New research paper](https://doi.org/10.3390/jmse12050767) published <br/>
 Li, C.; Huang, W.; Chen, C.; Boswell, K.M.; Wu, R. Modes of Weather System-Induced Flows through an Arctic Lagoon. J. Mar. Sci. Eng. 2024, 12, 767. https://doi.org/10.3390/jmse12050767 <br/>
