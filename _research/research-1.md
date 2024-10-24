@@ -1,7 +1,7 @@
 ---
 title: "Experimental Forecasting System for South Florida"
-short: Surface current velocity of South Florida from 20241023 to 20241027
-date: 2024-10-23
+short: Surface current velocity of South Florida from 20241024 to 20241028
+date: 2024-10-24
 short1: "Disclaimer: This is an experimental web portal for graphic visualization of the operational and experimental results from the storm surge and tide forecast systems being developed and tested by our lab at FIU using [SCHISM](https://ccrm.vims.edu/schismweb/). It should not be used as an official forecast."
 excerpt: "<img src='/images/research_uv1.gif'>"
 collection: research
@@ -10,11 +10,11 @@ collection: research
 Disclaimer:
 This is an experimental web portal for graphic visualization of the operational and experimental results from the storm surge and tide forecast systems being developed and tested by our lab at FIU using [SCHISM](https://ccrm.vims.edu/schismweb/).<br/>
 It should not be used as an official forecast.<br/>
-Surface current velocity in Biscayne Bay on 20241027<br/>
+Surface current velocity in Biscayne Bay on 20241028<br/>
 <img src='/images/research_Bbay.png'>
-Surface current velocity in Charlotte Harbor on 20241027<br/>
+Surface current velocity in Charlotte Harbor on 20241028<br/>
 <img src='/images/research_Cbay.png'>
-Surface current velocity in Tampa Bay on 20241027<br/>
+Surface current velocity in Tampa Bay on 20241028<br/>
 <img src='/images/research_Tbay.png'>
 The map below showns observational stations used for validating the model's results, as well as the horizontal grid. <br/>
 The horizontal grid for SCHISM in simulating Biscayne Bay in South Florida, using flexible resolution resolving levees and canals (1-2 m), watershed rural and urban areas (30m-50m) and coastal ocean (500m-5km).<br/>
