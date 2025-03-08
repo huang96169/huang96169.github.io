@@ -218,6 +218,9 @@ collections:
   mentors:
     output: true
     permalink: /:collection/:path/
+  fieldwork:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -290,6 +293,16 @@ defaults:
   - scope:
       path: ""
       type: mentors
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+      hide_title: true
+  # _fieldwork
+  - scope:
+      path: ""
+      type: fieldwork
     values:
       layout: single
       author_profile: true
