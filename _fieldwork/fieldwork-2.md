@@ -5,4 +5,4 @@ excerpt: "<img src='/images/fieldwork2.jpg'>"
 collection: fieldwork
 ---
 
- fieldwork2 fieldwork2 fieldwork2 fieldwork2 fieldwork2. 
+ We are comparing the data collected from our lab's ADCP and that from another lab with different settings. 
