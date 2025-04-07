@@ -1,6 +1,6 @@
 ---
 title: "Experimental Forecasting System for Gulf of Mexico"
-short: Surface current velocity from 20250406 to 20250410
+short: Surface current velocity from 20250407 to 20250411
 short1: "Disclaimer: This is an experimental web portal for graphic visualization of the operational and experimental results from the storm surge and tide forecast systems being developed and tested by our lab at FIU using [SCHISM](https://ccrm.vims.edu/schismweb/). It should not be used as an official forecast."
 excerpt: "<img src='/images/research_uv2.gif'>"
 collection: research
@@ -9,15 +9,15 @@ collection: research
 Disclaimer:
 This is an experimental web portal for graphic visualization of the operational and experimental results from the storm surge and tide forecast systems being developed and tested by our lab at FIU using [SCHISM](https://ccrm.vims.edu/schismweb/).<br/>
 It should not be used as an official forecast.<br/>
-Surface water elevation from 20250406 to 20250410<br/>
+Surface water elevation from 20250407 to 20250411<br/>
 <img src='/images/research_elev2.gif'>
-Surface current velocity  from 20250406 to 20250410<br/>
+Surface current velocity  from 20250407 to 20250411<br/>
 <img src='/images/research_uv2.gif'>
-Surface salinity from 20250406 to 20250410<br/>
+Surface salinity from 20250407 to 20250411<br/>
 <img src='/images/research_salt2.gif'>
-Surface temperature from 20250406 to 20250410<br/>
+Surface temperature from 20250407 to 20250411<br/>
 <img src='/images/research_temp2.gif'>
-Compound flooding map for Southeastern Florida from 20250406 to 20250410<br/>
+Compound flooding map for Southeastern Florida from 20250407 to 20250411<br/>
 <img src='/images/research_maxelev2.gif'>
 The map below showns observational stations used for validating the model's results, as well as the horizontal grid. <br/>
 The horizontal grid for SCHISM in simulating Biscayne Bay in South Florida, using flexible resolution resolving levees and canals (1-2 m), watershed rural and urban areas (30m-50m) and coastal ocean (500m-5km).<br/>
