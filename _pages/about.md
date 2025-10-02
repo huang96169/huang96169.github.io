@@ -13,7 +13,8 @@ We are interested in using field measurements, theoretical analysis, and numeric
 News
 ======
 ## 2025 September
-[New research paoer](https://doi.org/10.1016/j.ocemod.2025.102624) published <br/>
+[New research paper](https://doi.org/10.1016/j.ocemod.2025.102624) published <br/>
+Huang, W., C. Li, A. Valle-Levinson, D. Gann, M. Sukop, J. Obeysekera, and T. Troxler, 2025. Wind-driven exchange flow and inter-basin connectivity in a multiple-inlet bay, Ocean Modelling, https://doi.org/10.1016/j.ocemod.2025.102624 <br/>
 
 ## 2025 Auguest
 We have one PhD student and one master student on board! <br/>
@@ -22,7 +23,6 @@ Welcome Alihan and Jocelyn!
 ## 2024 August <br/>
 We have a new PhD student on board! <br/>
 Welcome, Tahsina Zarin! <br/>
-Huang, W., C. Li, A. Valle-Levinson, D. Gann, M. Sukop, J. Obeysekera, and T. Troxler, 2025. Wind-driven exchange flow and inter-basin connectivity in a multiple-inlet bay, Ocean Modelling, https://doi.org/10.1016/j.ocemod.2025.102624
 
 ## 2024 May <br/>
 [New research paper](https://doi.org/10.3390/jmse12050767) published <br/>
