@@ -19,6 +19,8 @@ Huang, W., C. Li, A. Valle-Levinson, D. Gann, M. Sukop, J. Obeysekera, and T. Tr
 ## 2025 August
 We have one PhD student and one master student on board! <br/>
 Welcome Alihan and Jocelyn!
+I'm co-advising a master student, Mason Sanford, starting this fall semester.
+Welcome, Mason!
 
 ## 2024 August <br/>
 We have a new PhD student on board! <br/>
