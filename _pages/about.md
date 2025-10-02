@@ -16,7 +16,7 @@ News
 [New research paper](https://doi.org/10.1016/j.ocemod.2025.102624) published <br/>
 Huang, W., C. Li, A. Valle-Levinson, D. Gann, M. Sukop, J. Obeysekera, and T. Troxler, 2025. Wind-driven exchange flow and inter-basin connectivity in a multiple-inlet bay, Ocean Modelling, https://doi.org/10.1016/j.ocemod.2025.102624 <br/>
 
-## 2025 Auguest
+## 2025 August
 We have one PhD student and one master student on board! <br/>
 Welcome Alihan and Jocelyn!
 
