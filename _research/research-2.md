@@ -10,7 +10,6 @@ collection: research
 Disclaimer:
 This is an experimental web portal for graphic visualization of the operational and experimental results from the storm surge and tide forecast systems being developed and tested by our lab at FIU using [SCHISM](https://ccrm.vims.edu/schismweb/).<br/>
 It should not be used as an official forecast.<br/>
-The link below shows flooding warning in next 5 days.<br/>
 Flooding warining in Biscayne Bay coastal area on 20260416<br/>
 <img src='/images/research_maxelev2.gif'>
 Surface water elevation from 20260412 to 20260416<br/>
