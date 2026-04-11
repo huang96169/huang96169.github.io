@@ -1,5 +1,5 @@
 ---
-title: "Experimental Forecasting System for Gulf of Mexico"
+title: "Experimental Forecasting System for South Florida"
 short: Surface current velocity from 20260412 to 20260416
 short1: "Disclaimer: This is an experimental web portal for graphic visualization of the operational and experimental results from the storm surge and tide forecast systems being developed and tested by our lab at FIU using [SCHISM](https://ccrm.vims.edu/schismweb/). It should not be used as an official forecast."
 excerpt: "<img src='/images/research_uv2.gif'>"
@@ -13,11 +13,7 @@ Surface water elevation from 20260412 to 20260416<br/>
 <img src='/images/research_elev2.gif'>
 Surface current velocity  from 20260412 to 20260416<br/>
 <img src='/images/research_uv2.gif'>
-Surface salinity from 20260412 to 20260416<br/>
-<img src='/images/research_salt2.gif'>
-Surface temperature from 20260412 to 20260416<br/>
-<img src='/images/research_temp2.gif'>
-Compound flooding map for Southeastern Florida from 20260412 to 20260416<br/>
+Compound flooding warning map for Southeastern Florida from 20260412 to 20260416<br/>
 <img src='/images/research_maxelev2.gif'>
 The map below showns observational stations used for validating the model's results, as well as the horizontal grid. <br/>
 The horizontal grid for SCHISM in simulating Biscayne Bay in South Florida, using flexible resolution resolving levees and canals (1-2 m), watershed rural and urban areas (30m-50m) and coastal ocean (500m-5km).<br/>
