@@ -5,7 +5,7 @@ collection: team
 ---
 Group members from left to right, Jocelyn Polo, Tahsina Zarin, Wei Huang, and Alihan Teke <br/>
 <img src='/images/images/team/GroupTeam.JPG'> <br/>
-Kaixuan Li
+Kaixuan Li <br/>
 IT Engineer, webpage maintenance, operational forecasting maintenance.<br/>
 Lab Technician, assists with field measurements, sensors deployment and retrieval, equipment tests and setup.
 <img src='/images/images/team/Kaixuan_Li.jpg'> <br/>
