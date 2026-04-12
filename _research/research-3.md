@@ -1,14 +1,12 @@
 ---
-title: "NOAA Water Levels - Florida Coastal Stations"
-short: NOAA Water Levels - Florida Coastal Stations
+title: "Model-Observation Comparison - Florida Coastal Stations"
+short: Model-Observation Comparison - Florida Coastal Stations
 date: 2026-04-12
 short1: "DNOAA Water Levels - Florida Coastal Stations"
-excerpt: "<a href='{{ '/assets/map.html' | relative_url }}' target='_blank'><img src='/images/noaa_water_levels_map.png' alt='NOAA Water Levels Map'></a>"
+excerpt: ""
 collection: research
 ---
 
 Disclaimer:
 "NOAA Water Levels - Florida Coastal Stations"<br/>
-"NOAA Water Levels - Florida Coastal Stations"<br/>
-"NOAA Water Levels - Florida Coastal Stations"<br/>
- <iframe src="{{ '/assets/map.html' | relative_url }}" title="NOAA Water Levels Map" width="100%" height="1000"></iframe>
+ <iframe src="{{ '/assets/map.html' | relative_url }}" title="NOAA Water Levels Map" width="1000" height="700"></iframe>
