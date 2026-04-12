@@ -42,7 +42,7 @@ async function initMap() {
 }
 
 async function loadBPFile() {
-    var response = await fetch('_data/Florida_1mv1.bp');
+    var response = await fetch('Florida_1mv1.bp');
     var text = await response.text();
     var lines = text.trim().split('\n');
     stations = [];
@@ -80,7 +80,7 @@ async function openSidebar(station) {
 }
 
 async function loadModelData() {
-    var response = await fetch('_data/model_predictions.txt');
+    var response = await fetch('model_predictions.txt');
     var text = await response.text();
     var lines = text.trim().split('\n');
     var now = new Date();
