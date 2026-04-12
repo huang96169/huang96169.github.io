@@ -11,4 +11,4 @@ Disclaimer:
 "NOAA Water Levels - Florida Coastal Stations"<br/>
 "NOAA Water Levels - Florida Coastal Stations"<br/>
 "NOAA Water Levels - Florida Coastal Stations"<br/>
- <iframe src="{{ '/assets/map.html' | relative_url }}" title="NOAA Water Levels Map" width="100%" height="600"></iframe>
+ <iframe src="{{ '/assets/map.html' | relative_url }}" title="NOAA Water Levels Map" width="100%" height="1000"></iframe>
