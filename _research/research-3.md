@@ -1,8 +1,8 @@
 ---
 title: "Model-Observation Comparison - Florida Coastal Stations"
 short: Model-Observation Comparison - Florida Coastal Stations
-date: 2026-04-12
-short1: "DNOAA Water Levels - Florida Coastal Stations"
+date: 2026-04-14
+short1: "NOAA Water Levels - Florida Coastal Stations"
 excerpt: ""
 collection: research
 ---
