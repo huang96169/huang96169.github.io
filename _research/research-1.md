@@ -1,7 +1,7 @@
 ---
 title: "Experimental Forecasting System for South Florida"
-short: Observation-model comparison for stations in South Florida from 20260807 to 20260811
-date: 2026-08-07
+short: Observation-model comparison for stations in South Florida from 20260808 to 20260812
+date: 2026-08-08
 short1: "Disclaimer: This is an experimental web portal for graphic visualization of the operational and experimental results from the storm surge and tide forecast systems being developed and tested by our lab at FIU using [SCHISM](https://ccrm.vims.edu/schismweb/). It should not be used as an official forecast."
 excerpt: "<img src='/images/research_elev2.gif'>"
 collection: research
