@@ -8,6 +8,13 @@ author_profile: true
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
   <div class="wordwrap">Selected publications</div>
+  <div class="wordwrap"><strong>2026</strong></div>
+  <div class="wordwrap">Huang, W., H. Jiang, D. Gann, O. Guzman, and T. Zarin (2026) Hurricane induced Spatial and Temporal Variation in Salinity in a Semi-enclosed Subtropical Estuarine Bay. Frontiers in Marine Science 13, 1880605. (https://doi.org/10.3389/fmars.2026.1880605) </div>
+  <div class="wordwrap">Shrestha, S., B. Liu, J. Li, W. Huang, M.M. Baustian, E.J. D'Sa, F. Messina, I.Y. Georgiou, A. Kumar, A. Freeman, and S. Mize (2026) Phytoplankton Biomass Dynamics in Wet (2019) and Dry (2023) Years in Lake Pontchartrain Estuary, Louisiana from Sentinel 2-MSI and PACE-OCI Observations. Science of the Total Environment 1011, 181126. (https://doi.org/10.1016/j.scitotenv.2025.181126) </div>
+  <div class="wordwrap"><strong>2025</strong></div>
+  <div class="wordwrap">Huang, W., C. Li, A. Valle-Levinson, D. Gann, M.C. Sukop, J.T. Obeysekera, and T. Tiffany (2025) Wind-driven exchange flow and inter-basin connectivity in a multi-inlet bay during hurricane and non-hurricane periods. Ocean Modelling 199, 102624. (https://doi.org/10.1016/j.ocemod.2025.102624) </div>
+  <div class="wordwrap">Mahmood, M., K. Maiti, C. Li, and W. Huang (2025) Seasonal variabilities in sources, distribution and transport of dissolved organic carbon from a rapidly eroding coastal estuary in Mississippi River delta plain. Science of the Total Environment 965, 178631.(https://doi.org/10.1016/j.scitotenv.2025.178631)</div>
+  <div class="wordwrap">Zhang, Y.J., J. Anderson, C.-H. Wu, D. Beletsky, Y. Liu, and W. Huang (2025) Cross-scale prediction for the Laurentian Great Lakes. Ocean Modelling 194, 102512. (https://doi.org/10.1016/j.ocemod.2025.102512)</div>
   <div class="wordwrap"><strong>2024</strong></div>
   <div class="wordwrap">Huang, W., Li, C. & Rivera-Monroy, V.H. Cold fronts control multiscale spatiotemporal hydroperiod patterns in a man-made subtropical coastal delta (Wax Lake Region, Louisiana USA). Ocean Dynamics 74, 355–372 (2024). https://doi.org/10.1007/s10236-024-01608-9</div>
   <div class="wordwrap">Huang, W., Ye, F., Zhang, Y., Du, J., Park, K., Yu, H.C., and Wang, Z. 2024b. Hydrodynamic responses of estuarine bays along the Texas-Louisiana coast during Hurricane Harvey. Ocean Modelling 187, 102302.</div>
