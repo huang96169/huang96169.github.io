@@ -9,6 +9,7 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
   <div class="wordwrap">Selected publications</div>
   <div class="wordwrap"><strong>2026</strong></div>
+  <div class="wordwrap">Huang, W., J. Obeysekera, H. Jiang, D. Gann, T. Zarin, M. Ross, and O. Guzman (2026). Hurricane Irma induced embayment flushing rate and sub-basin hydrologic connectivity in a semi-enclosed subtropical estuarine bay, Ocean Modelling, 102822, ISSN 1463-5003. (https://doi.org/10.1016/j.ocemod.2026.102822) </div>
   <div class="wordwrap">Huang, W., H. Jiang, D. Gann, O. Guzman, and T. Zarin (2026) Hurricane induced Spatial and Temporal Variation in Salinity in a Semi-enclosed Subtropical Estuarine Bay. Frontiers in Marine Science 13, 1880605. (https://doi.org/10.3389/fmars.2026.1880605) </div>
   <div class="wordwrap">Shrestha, S., B. Liu, J. Li, W. Huang, M.M. Baustian, E.J. D'Sa, F. Messina, I.Y. Georgiou, A. Kumar, A. Freeman, and S. Mize (2026) Phytoplankton Biomass Dynamics in Wet (2019) and Dry (2023) Years in Lake Pontchartrain Estuary, Louisiana from Sentinel 2-MSI and PACE-OCI Observations. Science of the Total Environment 1011, 181126. (https://doi.org/10.1016/j.scitotenv.2025.181126) </div>
   <div class="wordwrap"><strong>2025</strong></div>
